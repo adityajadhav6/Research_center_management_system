@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - PESITM CSE Research Centre Management System</title>
+    <title>Login - Research Centre Management System</title>
     <style>
         body {
             margin: 0;
@@ -148,7 +148,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="container">
-        <h1>PESITM CSE, Research Centre Management System</h1>
+        <h1>Research Centre Management System</h1>
 
         <!-- Display error message if any -->
         <?php if (isset($error_message)): ?>
