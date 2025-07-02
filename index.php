@@ -170,7 +170,7 @@ $is_viewer = $user_type === 'viewer';
 </head>
 <body>
     <div class="container">
-        <h1>Research Centre Management System<br>PESITM, Shivamogga</h1>
+        <h1>Research Centre Management System</h1>
         
         <!-- Main Buttons Section -->
         <div class="buttons">
