@@ -123,15 +123,6 @@ The **Research Center Management System** is a simple web app built to help mana
 
 ---
 
-## Future Enhancements
-
-- Add password hashing for better security.
-- Implement CSRF protection for forms.
-- Add pagination for large datasets.
-- Enhance the UI with modern frameworks like Bootstrap.
-
----
-
 ## License
 
 This project is for educational purposes only.
